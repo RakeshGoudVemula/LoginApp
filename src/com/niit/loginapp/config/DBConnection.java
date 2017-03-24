@@ -16,7 +16,7 @@ public class DBConnection {
 	private static String url="jdbc:h2:~/test";
 	private static String driver ="org.h2.Driver";
 	
-	//hai
+	
 	public static  Connection    getDBConnection()
 	{
 		Connection con=null;
